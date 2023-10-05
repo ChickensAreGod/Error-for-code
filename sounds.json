@@ -1,0 +1,8 @@
+{
+  "dowsing_rod_found_ore": {
+    "subtitle": "sounds.playgroundmod.dowsing_rod_found_ore",
+    "sounds": [
+      "playgroundmod:dowsing_rod_found_ore"
+    ]
+  }
+}
